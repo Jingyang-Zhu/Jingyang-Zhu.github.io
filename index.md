@@ -1,4 +1,4 @@
-## Welcome to JY Zhu's Homepage
+## Welcome to Jingyang Zhu's Homepage
 
 You can use the [editor on GitHub](https://github.com/zhujy99/jyzhu.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
