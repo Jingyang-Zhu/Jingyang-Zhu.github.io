@@ -5,7 +5,7 @@
 {}{img_left}{./photos/me.jpg}{alt text}{150}{225}{}
 Hello everyone! I am currently a second-year master advised by Prof. [https://shiyuanming.github.io/ Yuanming Shi] at [https://sist.shanghaitech.edu.cn School of Information Science and Technology (SIST)], [https://www.shanghaitech.edu.cn ShanghaiTech University], majoring in Information and Communication Engineering. Earlier, I obtained my bachelor's degree in Electronic Engineering from [https://see.xidian.edu.cn/ School of Electronic Engineering (SEE)], Xidian University in 2021.
 
-My research interest lies in the intersection of machine learning and communication networks, in particular federated learning, mathematical optimization as well as their applications to 6G, IoT and AI.
+My research interest lies in the intersection of machine learning and communication networks, in particular federated learning, mathematical optimization as well as their applications to 6G, IoT and AI \[[https://scholar.google.com/citations?user=eK45gbMAAAAJ&hl=en Google Schloar]\].
 
 
 #You can find my CV [files/cv.pdf here].
@@ -18,6 +18,7 @@ My research interest lies in the intersection of machine learning and communicat
 
 
 == News
+*Our new work \"Over-the-Air Federated Learning and Optimization: A Tutorial\" is in preparation!*
 
 == Research
 My research interests include 
@@ -28,6 +29,8 @@ My research interests include
 #[research.html Find out more].
 == Publications 
 
+. *J. Zhu*, Y. Shi, M. Fu, Y. Zhou, Y. Wu, and L. Fu, \"Latency Minimization for Wireless Federated Learning with Heterogeneous Local Updates \",  under review in IEEE Trans. Cogn. Commun. Netw. \n
 . S. Xia, *J. Zhu*, Y. Yang, Y. Zhou, Y. Shi and W. Chen, \"Fast Convergence Algorithm for Analog Federated Learning," in Proc. IEEE ICC, 2021. \[[https://ieeexplore.ieee.org/abstract/document/9500875 pdf]\]
+
 #[publications.html Full list of publications].
 #\n
