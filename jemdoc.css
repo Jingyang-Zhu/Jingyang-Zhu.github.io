@@ -358,10 +358,21 @@ tr.heading {
 }
 
 img {
-    border: none;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    transition: transform 0.2s;
+}
+
+a:hover img {
+    transform: scale(1.1);
 }
 
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+
