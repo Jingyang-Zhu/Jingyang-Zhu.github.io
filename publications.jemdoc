@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+= Jingyang (William) Zhu - Publications
+
+== Publications
+- Journal Articles
+. Y. Shi, *J. Zhu**,  C. Jiang, L. Kuang, and K. B. Letaief, \"Satellite Edge Artificial Intelligence with Large Models: Architectures and Technologies,\" /Sci. China Inf. Sci./, accepted, May 2025. \[[https://arxiv.org/abs/2504.01676 pdf]\]\n
+. *J. Zhu*, Y. Shi, Y. Zhou, C. Jiang, and L. Kuang, \"Hierarchical Learning and Computing over Space-Ground Integrated Networks,\" /IEEE Trans. Mobile Comput./, early access, May 2025. \[[https://ieeexplore.ieee.org/document/11003406 pdf]\] \[[https://github.com/Jingyang-Zhu/HierLC code]\]\n
+. Y. Shi, L. Zeng, *J. Zhu*, Y. Zhou, C. Jiang, and K. B. Letaief, \"Satellite Federated Edge Learning: Architecture Design and Convergence Analysis,\" /IEEE Trans. Wireless Commun./, vol. 23, no. 10, Oct. 2024. \[[https://ieeexplore.ieee.org/document/10605604 pdf]\]\n
+. *J. Zhu*, Y. Shi, Y. Zhou, C. Jiang, W. Chen, and K. B. Letaief, \"Over-the-Air Federated Learning and Optimization,\" /IEEE Internet Things J./, vol. 10, no. 11, pp. 16996 - 17020, May 2024. \[[https://ieeexplore.ieee.org/document/10388035 pdf]\] \[[https://github.com/Jingyang-Zhu/AirFL code]\]\n
+. *J. Zhu*, Y. Shi, M. Fu, Y. Zhou, Y. Wu, and L. Fu, \"Latency Minimization for Wireless Federated Learning with Heterogeneous Local Model Updates,\" /IEEE Internet Things J./, vol. 11, no. 1, pp. 444-461, Jan. 2024. \[[https://ieeexplore.ieee.org/abstract/document/10153411 pdf]\]\n
+
+- Conference Proceedings
+. Z. Yang, P. Zhang, *J. Zhu*, D. Wen, Y. Shi, and W. Chen, \"Hierarchical Federated Learning with Integrated Sensing-Communication-Computation over Space-Air-Ground Integrated Networks,\" in /Proc. IEEE Int. Conf. Commun. (ICC)/, Montreal, Canada, Jun. 2025, ACCEPTED.
+. R. Li, *J. Zhu*, Y. Mao, Y. Shi, T. Wang, C. Jiang, \"Topology-Aware Routing for Federated Learning Over Multi-Layer Satellite Networks,\" in /Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)/, Mar. 2025, Milan, Italy. \[[https://ieeexplore.ieee.org/abstract/document/10978815 pdf]\]\n
+. Y. Zhu, P. Yang, *J. Zhu*, D. Wen, T. Wang, Y. Zhou, and C. Jiang, \"Satellite Federated Fine-tuning for Foundation Models: Architecture Design and System Optimization \", in /Proc. IEEE Global Conf. Commun. (GLOBECOM)/, Dec.2024, Cape Town, South Africa. \[[https://ieeexplore.ieee.org/abstract/document/10901682 pdf]\]\n
+. Y. Wang, *J. Zhu*, Y. Mao, D. Wen, X. Tian, and Y. Shi, \"Hierarchical Federated Edge Learning over Space-Air-Ground Integrated Networks,\" in /Proc. IEEE GLOBECOM WORKSHOPS (GC WKSHPS)/, Dec. 2023, Kuala Lumpur, Malaysia. \[[https://ieeexplore.ieee.org/abstract/document/10464713 pdf]\]\n
+. *J. Zhu*, Y. Shi, M. Fu, Y. Zhou, Y. Wu, and L. Fu, \"Latency Minimization for Wireless Federated Learning with Heterogeneous Local Updates,\"  in /Proc. IEEE Wireless Commun. Netw. Conf. (WCNC)/, Mar. 2023, Glasgow, Scotland. \[[https://ieeexplore.ieee.org/abstract/document/10118880 pdf]\] \n
+. S. Xia, *J. Zhu*, Y. Yang, Y. Zhou, Y. Shi, and W. Chen, \"Fast Convergence Algorithm for Analog Federated Learning," in /Proc. IEEE Int. Conf. Commun. (ICC)/, Online, 2021. \[[https://ieeexplore.ieee.org/abstract/document/9500875 pdf]\]\n
