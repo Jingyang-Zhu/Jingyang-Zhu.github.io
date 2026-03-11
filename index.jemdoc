@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{./photos/zjz2025.jpg}{alt text}{150}{210.4}{}
-Hello everyone! I am a forth-year phd student advised by Prof. [https://shiyuanming.github.io/ Yuanming Shi] at [https://sist.shanghaitech.edu.cn School of Information Science and Technology (SIST)], [https://www.shanghaitech.edu.cn ShanghaiTech University], majoring in Computer Science (CS).
+Hello everyone! I am a fifth-year Ph.D. student advised by Prof. [https://shiyuanming.github.io/ Yuanming Shi] at [https://sist.shanghaitech.edu.cn School of Information Science and Technology (SIST)], [https://www.shanghaitech.edu.cn ShanghaiTech University], majoring in Computer Science (CS).
 
 I was also in internship with the Nokia Bell Labs, Shanghai, China, May to September, 2025.
 
@@ -23,6 +23,7 @@ My research interest lies in the intersection of machine learning and communicat
 == Research
 My research interests include
 - Distributed Learning and Optimization.
+- Edge Intelligence.
 - Space Computing Power Networks.
 
 == Services
@@ -35,9 +36,10 @@ My research interests include
 . /IEEE Wireless Communications Letters/
 
 
-== Preprints
+== Preprints and Proceedings
 # . H. Yang, S. Xia, *J. Zhu*, Y. Wu, Y. Zhou, and Y. Shi, \"Provable Guarantees for Over-the-Air Federated Learning with Polynomial Neural Networks,\" submitted to /IEEE Transactions on Wireless Communications/ for possible publication, Major Revision, Feb. 2025. \n
-
+\[[1]\] L. Zeng, *J. Zhu*, Z. Wang, Y. Shi, and K. B. Letaief, \"Unseen Cost of Space Computing: Quantifying LEO Battery Aging via Physics-Driven Modeling," in /Proc. IEEE Int. Conf. Commun. (ICC)/, May 2026, Glasgow, England. \n
+\[[2]\] R. Li, *J. Zhu*, Y. Shi, L. Kuang, and C. Jiang, \"Asynchronous Satellite Federated Learning with Intermittent Ground-to-Satellite Links," in /Proc. IEEE Int. Conf. Commun. (ICC)/, May 2026, Glasgow, England. \n
 
 #[research.html Find out more].
 == Publications (by year)
